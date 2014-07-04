@@ -24,6 +24,7 @@ have problems.
    after booting into the new kernel):
 	make ideapad-laptop
 	sudo make ideapad-laptop-install
+	
    The installation also sets up udev rules and an xmodmap file to handle
    the touchpad_toggle and break keys that are not usually handled correctly.
 
